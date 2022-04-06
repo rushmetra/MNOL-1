@@ -6,6 +6,11 @@
 % colocar ; no final das operações para não aparecer os resultados na
 % consola
 
+% exp funcao exponencial
+% log10 = logaritmo base 10
+% log = ln
+
+
 % Pode-se usar help fplot para ter a documentação do fplot (um genero de man
 % do linux
 
@@ -25,4 +30,4 @@
 
 %
 % op2 = optimset('tolfun',1e-3)
-% [x,favl,exitflag,output] = fsolve(@exerc16, 6, op2)
+% [x,favl,exitflag,output] = fsolve(@exerc16, 6, op2

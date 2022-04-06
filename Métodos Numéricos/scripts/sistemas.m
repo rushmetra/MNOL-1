@@ -15,7 +15,7 @@ determinante = det(matriz);
 inversa = inv(matriz);
 
 %
-%
+% Sistema não linear Por método de Newton
 %
 
 % resolver o sistema
